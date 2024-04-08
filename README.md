@@ -7,6 +7,7 @@
 </div>
 
 # ⚙️ INSIDER
+![IMG_20240402_203547_373](https://github.com/Infamous-Hydra/YaeMiko/assets/163736172/c2560615-6126-4ca8-944e-5f29a02e7415)
 
 - **Smart Moderation:** Advanced moderation tools for better control over your group
 - **Custom Commands:** Create custom commands to automate repetitive tasks
